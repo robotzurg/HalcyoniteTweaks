@@ -15,5 +15,6 @@ The mod is not finished yet. I just wanted to get some priority fixes out first,
 - Potentially damage/knockback changes
 
 ## Credits
+- PlNK for the mod icon, the goat
 - Moffein for the freeze/stun fix. His RiskyTweaks mod does the same thing, so the fix here just gets disabled if that fix is enabled on that mod.
 - Nuxlar, for his Halcyonite Fixes mod that is now deprecated. A lot of the ideas from this mod come from that, and I got permission from him to update his HalcyoniteFixes mod code to work with the newer SOTS versions!

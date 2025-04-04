@@ -1,6 +1,6 @@
 ﻿{
 	"name": "HalcyoniteTweaks",
-	"version_number": "1.0.0",
+	"version_number": "1.0.1",
 	"website_url": "https://github.com/robotzurg/HalcyoniteTweaks",
 	"description": "A mod that tweaks the Halcyonite enemy to be more fair and not suck as much.",
 	"dependencies": [
